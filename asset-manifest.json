@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/personal/static/css/main.be266dd8.css",
+    "main.js": "/personal/static/js/main.e0e19681.js",
+    "static/js/453.298f5782.chunk.js": "/personal/static/js/453.298f5782.chunk.js",
+    "static/media/color-sharp.png": "/personal/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/personal/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/headerImg.png": "/personal/static/media/headerImg.aaf87c6c99fb9ee69b38.png",
+    "static/media/CentraNo2-Bold.ttf": "/personal/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/personal/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/personal/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/logo.png": "/personal/static/media/logo.706a7e32d15e0ad74a88.png",
+    "static/media/roomies.png": "/personal/static/media/roomies.12090a7e1982fbfba3ee.png",
+    "static/media/contact-img.svg": "/personal/static/media/contact-img.530878ebf791a4548d0e73ac4f238254.svg",
+    "static/media/huffmanheaps.png": "/personal/static/media/huffmanheaps.f17edf914f79fb85f43d.png",
+    "static/media/2048.png": "/personal/static/media/2048.84f9501b645640dc1bc7.png",
+    "static/media/glasses.png": "/personal/static/media/glasses.1b5aced71da7cb107580.png",
+    "static/media/spotbnb.png": "/personal/static/media/spotbnb.dd75e1bd4d34f2cc6015.png",
+    "static/media/revicons.eot": "/personal/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/personal/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/personal/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/personal/static/media/meter2.8323146c06d90d5e76c8d52b5f13fafe.svg",
+    "static/media/meter1.svg": "/personal/static/media/meter1.a0f23d1ad1d34866dac026f297811909.svg",
+    "static/media/meter3.svg": "/personal/static/media/meter3.0aa8740fe94f1c9eefba91d5f1942e05.svg",
+    "index.html": "/personal/index.html",
+    "main.be266dd8.css.map": "/personal/static/css/main.be266dd8.css.map",
+    "main.e0e19681.js.map": "/personal/static/js/main.e0e19681.js.map",
+    "453.298f5782.chunk.js.map": "/personal/static/js/453.298f5782.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be266dd8.css",
+    "static/js/main.e0e19681.js"
+  ]
+}
