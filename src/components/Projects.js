@@ -22,6 +22,7 @@ export const Projects = () => {
       title: "SpotBnb",
       description: "Used databses from Spotify and Airbnb, Google Maps API to create a web app that allows users to search for airbnb's near concerts.",
       imgUrl: spotbnb,
+      linkUrl: "https://github.com/tunamoon/SpotBnb"
     },
     {
       title: "Aria Glasses Python Scripting",
