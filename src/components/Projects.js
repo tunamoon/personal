@@ -6,12 +6,19 @@ import glasses from "../assets/img/glasses.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import game2048 from "../assets/img/2048.png";
 import huffmanheaps from "../assets/img/huffmanheaps.png";
+import minecraft from "../assets/img/minecraft.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
 export const Projects = () => {
 
   const projects = [
+    {
+      title: "Mini Minecraft",
+      description: "A first person exploration game with biomes, changing skies, textures, and slimes!",
+      imgUrl: minecraft,
+      linkUrl: "https://docs.google.com/presentation/d/1MjulFzr0VDtx3K8laIdDum-78U-MdkloSgmkMGWlXOQ/edit?usp=sharing"
+    },
     {
       title: "Roomies",
       description: "A gameified webapp for roommate chore doing! Backend was developed locally so working on deploying... every gif on the slides(click to see) was made from our web app. I focused on developing recurring tasks, login page, and the leaderboard page.",
@@ -53,7 +60,7 @@ export const Projects = () => {
             <TrackVisibility>
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
-                <h2>Projects</h2>
+                <h2>About Me</h2>
                 <p>Hover over each icon to checkout my previous projects! Also checkout the communities I love and the favorites I've saved throughout the years...</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
